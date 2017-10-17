@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestDesignLibrary</string>
+    <string name="text_coordinatorlayout">炫酷CoordinatorLayout</string>
+    <string name="text_navigationview">酷炫NavigationView</string>
+</resources>
