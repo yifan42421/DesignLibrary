@@ -67,6 +67,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"
         android:layout_margin="15dp"
-        android:src="@drawable/add_1" />
+        android:src="@drawable/add_1"
+        app:fabSize="normal"
+        app:rippleColor="#f00"
+        app:elevation="10dp"/>
 
 </android.support.design.widget.CoordinatorLayout>
